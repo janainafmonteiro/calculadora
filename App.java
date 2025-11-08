@@ -24,5 +24,9 @@ public class App {
         }
        } while (!expressao.equals("fim"));
     } 
+    //Exemplo de uma conta com a clase NumComplexo e Operacoes
+    //NumComplexo a = new NumComplexo(16,2);
+    //NumComplexo b = new NumComplexo(4, 0);
+    //System.out.println(Operacoes.multiplicar(a, b));
     
 }
